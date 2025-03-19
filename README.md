@@ -15,7 +15,7 @@
 ```
 respectivamente com o nome, usuario, senha, porta, e host escolhido na criaçao do banco de dados
 
-- ativa simulaçao de banco de dados, utlizando wamp, por exemplo.
+- ativar simulaçao de banco de dados, utlizando wamp, por exemplo.
 
 - abrir pasta clone do repositorio no visual code
 
