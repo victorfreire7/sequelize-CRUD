@@ -1,6 +1,6 @@
 ## CRUD COM SEQUELIZE
 
-Está é uma aplicação CRUD feita utilizandando a biblioteca Node.js Sequelize. Feita inteiramente para fins de estudo. 
+Está é uma simples aplicação CRUD feita utilizando a biblioteca Node.js: Sequelize. Feita inteiramente para fins de estudo. 
 
 ---
 
