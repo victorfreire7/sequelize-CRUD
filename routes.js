@@ -8,6 +8,8 @@ routes.get("/", (req, res ) => {
     res.json(client);
 });
 
-routes.get("/clients", client.findAll());
+routes.get("/clients", client.findAll);
+routes.post("/clients", client.addClient)
+routes.get("/clients/:id", client.findClient)
 
 module.exports = routes;

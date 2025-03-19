@@ -7,7 +7,7 @@ const dbHost = process.env.DB_HOST;
 const dbPort = process.env.DB_PORT;
 const dbPassword = process.env.DB_PASSWORD;
 
-const sequelize = new Sequelize(dbName, dbName, dbPassword, { // informações para a conexão
+const sequelize = new Sequelize(dbName, dbUser, dbPassword, { // informações para a conexão
     host: dbHost,
     port: dbPort,
     dialect: "mysql" // tipo de BD que sera utilizado
