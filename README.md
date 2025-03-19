@@ -32,7 +32,7 @@ npm i
 npm run dev
 ```
 
-- Feito isso, a aplicação etará rodando no seu [localhost:3004](http://localhost:3004).
+- Feito isso, a aplicação estará rodando no seu [localhost:3004](http://localhost:3004).
 
 ---
 
