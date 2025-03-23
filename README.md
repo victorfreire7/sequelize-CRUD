@@ -36,6 +36,16 @@ npm run dev
 
 ---
 
+## Dependências:
+``` JSON
+    "dependencies": {
+        "dotenv": "^16.4.7",
+        "express": "^4.21.2",
+        "mysql2": "^3.13.0",
+        "sequelize": "^6.37.6"
+    }
+```
+
 ### Aplicações e Ferramentas usadas neste projeto:
 ![Blog](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Blog](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
@@ -43,4 +53,3 @@ npm run dev
 ![Blog](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Blog](https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Blog](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
-
